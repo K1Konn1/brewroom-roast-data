@@ -20,13 +20,13 @@
       "tastingNotes": "Khoho, Mixed Berry, Jelly-like, Maple Syrup, White Tea",
       "notes": "",
       "farm": "",
-      "altitude": "",
+      "altitude": "1350-1850",
       "harvestYear": "",
-      "purchaseDate": null,
-      "priceAmount": null,
-      "priceCurrency": "",
-      "weightGrams": null,
-      "purchaseSource": "",
+      "purchaseDate": "2026-04-06",
+      "priceAmount": 800,
+      "priceCurrency": "THB",
+      "weightGrams": 1000,
+      "purchaseSource": "BigBlackBox",
       "cuppingScore": null,
       "acidity": "",
       "bodyDesc": "",
@@ -43,7 +43,7 @@
       "adjustmentGrams": null,
       "hasPhoto": false,
       "createdAt": "2026-04-06T09:09:58.225Z",
-      "updatedAt": "2026-04-06T09:09:58.225Z"
+      "updatedAt": "2026-04-06T09:10:40.183Z"
     },
     {
       "id": "b448031111",
