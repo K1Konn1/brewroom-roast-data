@@ -211,7 +211,7 @@
       "date": "2026-06-12T10:03",
       "logNumber": 51,
       "dir": "roasts/0051",
-      "beanId": null,
+      "beanId": "b691546283",
       "profileId": "p6346450",
       "files": [
         "log0051.klog"
@@ -3273,7 +3273,8 @@
       },
       "shareId": null,
       "nlogExtras": null,
-      "_parsedV3": true
+      "_parsedV3": true,
+      "roastWeightGrams": 90
     },
     {
       "id": "r7174200",
