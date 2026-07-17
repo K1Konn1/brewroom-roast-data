@@ -204,6 +204,26 @@
   ],
   "profiles": [
     {
+      "id": "p7805450",
+      "name": "JLightEtiopiaT1",
+      "description": "Etiopia Natural:\\vPeach, light tea body, sweet, floral aftertaste\\v\\vGeisha Village tested 88+ coffees\\v\\vDensity: 695g/l\\vBean Moisture: 11.9%\\v\\v---- Targets:\\vLight Filter\\vWeight Loss: 12%\\vRoast Meter Color: 120rl",
+      "designer": "Justin",
+      "fcTemp": 204,
+      "ccTemp": 170,
+      "dropTemp": 213,
+      "dropTime": 446,
+      "_dropTimeV": 2,
+      "recommendedLevel": 2,
+      "dir": "profiles/JLightEtiopiaT1",
+      "files": [
+        "JLightEthiopiaT1.kpro"
+      ],
+      "sourceFileName": "JLightEthiopiaT1.kpro",
+      "uploadedAt": "2026-07-17T05:39:40.545Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p7909060",
       "name": "Ton Fer 01",
       "description": "Try with Thai melon, and Uganda Lychee with target temp at 219",
