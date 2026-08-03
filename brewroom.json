@@ -204,6 +204,26 @@
   ],
   "profiles": [
     {
+      "id": "p0336860",
+      "name": "JLightColumbia",
+      "description": "Profile designed for colombian beans (tested with great results on processed/washed)\\vHighlights acidity fruityness and floral aspects of the coffee.\\vRoast level is light with a very good degree of solubility!\\v\\vTested with Wilton Benitez (Koji, yeast ferm etc.) 89 scoring competition coffee.\\v\\vDensity: 700g/l\\vBean Moisture: 11.6%\\v\\v-- Targets\\vLight Filter: (3.1)\\vWeight Loss: 12%\\vRoast Meter Color: 125rl",
+      "designer": "Justin",
+      "fcTemp": 206,
+      "ccTemp": 170,
+      "dropTemp": 211,
+      "dropTime": 368,
+      "_dropTimeV": 2,
+      "recommendedLevel": 1,
+      "dir": "profiles/JLightColumbia",
+      "files": [
+        "JLightColombia.kpro"
+      ],
+      "sourceFileName": "JLightColombia.kpro",
+      "uploadedAt": "2026-08-03T09:40:33.686Z",
+      "notes": "",
+      "tag": ""
+    },
+    {
       "id": "p7805450",
       "name": "JLightEtiopiaT1",
       "description": "Etiopia Natural:\\vPeach, light tea body, sweet, floral aftertaste\\v\\vGeisha Village tested 88+ coffees\\v\\vDensity: 695g/l\\vBean Moisture: 11.9%\\v\\v---- Targets:\\vLight Filter\\vWeight Loss: 12%\\vRoast Meter Color: 120rl",
