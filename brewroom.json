@@ -3420,7 +3420,7 @@
       "date": "2026-08-17T08:57",
       "logNumber": 78,
       "dir": "roasts/0078",
-      "beanId": null,
+      "beanId": "b691546283",
       "profileId": "p6346450",
       "files": [
         "log0078.klog"
@@ -3440,7 +3440,7 @@
       },
       "rating": null,
       "notes": "",
-      "tag": "",
+      "tag": "0.1",
       "unit": "C",
       "roastLength": "07:16",
       "curveData": {
@@ -6482,7 +6482,8 @@
       },
       "shareId": null,
       "nlogExtras": null,
-      "_parsedV3": true
+      "_parsedV3": true,
+      "roastWeightGrams": 100
     },
     {
       "id": "r0124100",
