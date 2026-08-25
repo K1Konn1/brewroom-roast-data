@@ -410,7 +410,7 @@
       "date": "2026-08-25T10:06",
       "logNumber": 82,
       "dir": "roasts/0082",
-      "beanId": null,
+      "beanId": "b613165892",
       "profileId": "p5448860",
       "files": [
         "log0082.klog"
@@ -430,7 +430,7 @@
       },
       "rating": null,
       "notes": "",
-      "tag": "",
+      "tag": "2.0",
       "unit": "C",
       "roastLength": "06:60",
       "curveData": {
@@ -3472,7 +3472,8 @@
       },
       "shareId": null,
       "nlogExtras": null,
-      "_parsedV3": true
+      "_parsedV3": true,
+      "roastWeightGrams": 100
     },
     {
       "id": "r0905390",
