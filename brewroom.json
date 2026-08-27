@@ -47,7 +47,9 @@
       "name": "White Dress",
       "country": "Colombia",
       "region": "Nariro",
-      "variety": [],
+      "variety": [
+        "Gesha"
+      ],
       "processing": "Washed",
       "roasterName": "",
       "roastLevel": "",
@@ -79,7 +81,7 @@
       "adjustmentGrams": null,
       "hasPhoto": false,
       "createdAt": "2026-08-27T08:53:50.222Z",
-      "updatedAt": "2026-08-27T08:54:24.316Z"
+      "updatedAt": "2026-08-27T08:57:22.201Z"
     },
     {
       "id": "b613165892",
