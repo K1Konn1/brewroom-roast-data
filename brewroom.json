@@ -331,10 +331,12 @@
       "name": "Sidama Bensa Hamasho Tadisa Natural Slow Dry G1",
       "country": "Ethiopia",
       "region": "Sidama",
-      "variety": [],
+      "variety": [
+        "74158"
+      ],
       "processing": "Natural Slow Dry",
       "roasterName": "Me",
-      "roastLevel": "Light",
+      "roastLevel": "",
       "flavorNotes": [],
       "userRating": null,
       "tastingNotes": "Apricot, Mango, Lychee, Lemon, Lime, White Sugar, Full body, High Sweetness",
@@ -363,7 +365,7 @@
       "adjustmentGrams": null,
       "hasPhoto": false,
       "createdAt": "2026-04-06T09:07:28.031Z",
-      "updatedAt": "2026-04-06T09:08:17.357Z"
+      "updatedAt": "2026-08-27T09:02:16.879Z"
     },
     {
       "id": "b251658096",
