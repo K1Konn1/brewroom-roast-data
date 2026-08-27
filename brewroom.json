@@ -5,7 +5,7 @@
       "id": "b510293640",
       "name": "Colombia Kyoho Nagano",
       "country": "Colombia",
-      "region": "Colombia",
+      "region": "Huila",
       "variety": [
         "Caturra",
         "Castillo",
@@ -20,7 +20,7 @@
       "tastingNotes": "Kyoho, Mixed Berry, Jelly-like, Maple Syrup, White Tea",
       "notes": "",
       "farm": "",
-      "altitude": "",
+      "altitude": "1350-1850",
       "harvestYear": "",
       "purchaseDate": null,
       "priceAmount": null,
@@ -43,7 +43,7 @@
       "adjustmentGrams": null,
       "hasPhoto": false,
       "createdAt": "2026-08-27T09:21:50.293Z",
-      "updatedAt": "2026-08-27T09:21:50.293Z"
+      "updatedAt": "2026-08-27T09:22:54.437Z"
     },
     {
       "id": "b855531476",
