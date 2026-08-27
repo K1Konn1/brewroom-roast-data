@@ -17,12 +17,12 @@
       "tastingNotes": "White Floral, Grapefruit, Apricot, Lemon, Honey, Lychee",
       "notes": "",
       "farm": "",
-      "altitude": "",
+      "altitude": "2350-2400",
       "harvestYear": "",
       "purchaseDate": null,
-      "priceAmount": null,
-      "priceCurrency": "",
-      "weightGrams": null,
+      "priceAmount": 2180,
+      "priceCurrency": "THB",
+      "weightGrams": 1000,
       "purchaseSource": "",
       "cuppingScore": null,
       "acidity": "",
@@ -40,7 +40,7 @@
       "adjustmentGrams": null,
       "hasPhoto": false,
       "createdAt": "2026-08-27T09:10:55.531Z",
-      "updatedAt": "2026-08-27T09:10:55.531Z"
+      "updatedAt": "2026-08-27T09:11:47.246Z"
     },
     {
       "id": "b156350728",
