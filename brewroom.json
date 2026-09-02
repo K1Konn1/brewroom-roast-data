@@ -620,7 +620,7 @@
       "date": null,
       "logNumber": 83,
       "dir": "roasts/0083",
-      "beanId": null,
+      "beanId": "b147536017",
       "profileId": "p5448860",
       "files": [
         "log0083.klog"
@@ -640,7 +640,7 @@
       },
       "rating": null,
       "notes": "",
-      "tag": "",
+      "tag": "2.0",
       "unit": "C",
       "roastLength": "06:60",
       "curveData": {
@@ -3682,7 +3682,8 @@
       },
       "shareId": null,
       "nlogExtras": null,
-      "_parsedV3": true
+      "_parsedV3": true,
+      "roastWeightGrams": 100
     },
     {
       "id": "r5448860",
