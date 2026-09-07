@@ -640,7 +640,7 @@
       "date": null,
       "logNumber": 85,
       "dir": "roasts/0085",
-      "beanId": null,
+      "beanId": "b613165892",
       "profileId": "p2190270",
       "files": [
         "log0085.klog"
@@ -660,7 +660,7 @@
       },
       "rating": null,
       "notes": "",
-      "tag": "",
+      "tag": "0.3",
       "unit": "C",
       "roastLength": "07:31",
       "curveData": {
@@ -3702,7 +3702,8 @@
       },
       "shareId": null,
       "nlogExtras": null,
-      "_parsedV3": true
+      "_parsedV3": true,
+      "roastWeightGrams": 100
     },
     {
       "id": "r7374700",
